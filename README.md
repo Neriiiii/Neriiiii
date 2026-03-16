@@ -3,7 +3,7 @@
 **Full Stack Developer**
 Focused on learning and developing modern web applications while crafting responsive, scalable, and efficient digital experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nerizza-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nerizza-dev.vercel.app) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nerizza-bayas)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nerizza@example.com)
 
@@ -14,7 +14,6 @@ Focused on learning and developing modern web applications while crafting respon
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
