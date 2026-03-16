@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Nerizza;Full+Stack+Developer;Building+Modern+Web+Apps;Vue+%7C+React+%7C+Laravel+%7C+Node.js&width=500&height=45" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Nerizza;Full+Stack+Developer;Building+Modern+Web+Apps;Vue+%7C+React+%7C+Node.js&width=500&height=45" />
 
 **Full Stack Developer**
 Focused on learning and developing modern web applications while crafting responsive, scalable, and efficient digital experiences.
