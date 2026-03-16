@@ -1,11 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Nerizza;Full+Stack+Developer;Building+Modern+Web+Apps;Vue+%7C+React+%7C+Node.js&width=500&height=45" />
 
-**Full Stack Developer**
-Focused on learning and developing modern web applications while crafting responsive, scalable, and efficient digital experiences.
+Focused on learning and developing modern web applications while crafting responsive, scalable, and user-friendly digital experiences. I enjoy exploring new technologies and continuously improving my development workflow.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nerizza-dev.vercel.app) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nerizza-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nerizza-bayas)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nerizza@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nerizzabayas28@gmail.com)
 
 ---
 
@@ -27,4 +26,17 @@ Focused on learning and developing modern web applications while crafting respon
 
 ---
 
+## 🌱 Currently Learning
 
+* Improving **frontend architecture** with React and Next.js
+* Writing cleaner and more maintainable **TypeScript code**
+* Building better **API integrations and backend logic**
+
+---
+
+## 🎯 Interests
+
+* Web application development
+* UI/UX design and prototyping in Figma
+* Exploring new JavaScript frameworks
+* Continuous learning and problem solving
