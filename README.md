@@ -24,19 +24,4 @@ Focused on learning and developing modern web applications while crafting respon
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
----
 
-## 🌱 Currently Learning
-
-* Improving **frontend architecture** with React and Next.js
-* Writing cleaner and more maintainable **TypeScript code**
-* Building better **API integrations and backend logic**
-
----
-
-## 🎯 Interests
-
-* Web application development
-* UI/UX design and prototyping in Figma
-* Exploring new JavaScript frameworks
-* Continuous learning and problem solving
